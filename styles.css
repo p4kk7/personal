@@ -248,10 +248,10 @@ footer {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  background-color: #ff0000;
-  opacity: 1;
+  background-color: #11ff00;
+  opacity: 10;
   filter: blur(12px);
-  animation: blob-bounce 5s infinite ease;
+  animation: blob-bounce 4.5s infinite ease;
   
 
 }
