@@ -249,7 +249,7 @@ footer {
   height: 150px;
   border-radius: 50%;
   background-color: #11ff00;
-  opacity: 10;
+  opacity: 1;
   filter: blur(12px);
   animation: blob-bounce 4.5s infinite ease;
   
